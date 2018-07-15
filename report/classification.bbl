@@ -1,0 +1,267 @@
+\begin{thebibliography}{10}
+
+\bibitem{boxy}
+{Matange, S.}
+\newblock Box plot legend.
+\newblock
+  \url{https://blogs.sas.com/content/graphicallyspeaking/2017/04/13/box-plot-legend/},
+  2018.
+\newblock [Graphically Speaking; accessed 18-Jun-2018].
+
+\bibitem{softmax}
+{karpathy}.
+\newblock Cs231n convolutional neural networks for visual recognition.
+\newblock \url{http://cs231n.github.io/linear-classify/#softmax}, 2018.
+\newblock [Online; accessed 11-Jun-2018].
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{srivastava2014dropout}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: A simple way to prevent neural networks from overfitting.
+\newblock {\em The Journal of Machine Learning Research}, 15(1):1929--1958,
+  2014.
+
+\bibitem{augement}
+{Prasad Pai}.
+\newblock Data augmentation techniques in cnn using tensorflow.
+\newblock
+  \url{https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9},
+  2017.
+\newblock [Medium; accessed 26-Jun-2018].
+
+\bibitem{liu2015chart}
+Xiao Liu, Binbin Tang, Zhenyang Wang, Xianghua Xu, Shiliang Pu, Dapeng Tao, and
+  Mingli Song.
+\newblock Chart classification by combining deep convolutional networks and
+  deep belief networks.
+\newblock In {\em Document Analysis and Recognition (ICDAR), 2015 13th
+  International Conference on}, pages 801--805. IEEE, 2015.
+
+\bibitem{karthikeyani2012machine}
+V~Karthikeyani and S~Nagarajan.
+\newblock Machine learning classification algorithms to recognize chart types
+  in portable document format (pdf) files.
+\newblock {\em International Journal of Computer Applications}, 39(2), 2012.
+
+\bibitem{humaneye}
+{Thermopylae Sciences + Technology}.
+\newblock Humans process visual data better.
+\newblock
+  \url{http://www.t-sciences.com/news/humans-process-visual-data-better}, 2018.
+\newblock [Thermopylae Sciences + Technology. (2018).; accessed 18-Jun-2018].
+
+\bibitem{chartselection}
+{Few, S}.
+\newblock Visual business intelligence – abela’s folly – a thought
+  confuser.
+\newblock \url{https://www.perceptualedge.com/blog/?p=2080}, 2018.
+\newblock [Perceptualedge.com.; accessed 17-Jun-2018].
+
+\bibitem{amara2017convolutional}
+Jihen Amara, Pawandeep Kaur, Michael Owonibi, and Bassem Bouaziz.
+\newblock Convolutional neural network based chart image classification.
+\newblock 2017.
+
+\bibitem{savva2011revision}
+Manolis Savva, Nicholas Kong, Arti Chhajta, Li~Fei-Fei, Maneesh Agrawala, and
+  Jeffrey Heer.
+\newblock Revision: Automated classification, analysis and redesign of chart
+  images.
+\newblock In {\em Proceedings of the 24th annual ACM symposium on User
+  interface software and technology}, pages 393--402. ACM, 2011.
+
+\bibitem{prasad2007classifying}
+V~Shiv~Naga Prasad, Behjat Siddiquie, Jennifer Golbeck, and Larry~S Davis.
+\newblock Classifying computer generated charts.
+\newblock In {\em Content-Based Multimedia Indexing, 2007. CBMI'07.
+  International Workshop on}, pages 85--92. IEEE, 2007.
+
+\bibitem{boyle2007advances}
+Richard Boyle, Bahram Parvin, Darko Koracin, Nikos Paragios, and Syeda-Mahmood
+  Tanveer.
+\newblock {\em Advances in visual computing}.
+\newblock Springer, 2007.
+
+\bibitem{zhou2000bar}
+Yan~Ping Zhou and Chew~Lim Tan.
+\newblock Bar charts recognition using hough based syntactic segmentation.
+\newblock In {\em International Conference on Theory and Application of
+  Diagrams}, pages 494--497. Springer, 2000.
+
+\bibitem{shao2005recognition}
+Mingyan Shao and Robert~P Futrelle.
+\newblock Recognition and classification of figures in pdf documents.
+\newblock In {\em International Workshop on Graphics Recognition}, pages
+  231--242. Springer, 2005.
+
+\bibitem{inokuchi2000apriori}
+Akihiro Inokuchi, Takashi Washio, and Hiroshi Motoda.
+\newblock An apriori-based algorithm for mining frequent substructures from
+  graph data.
+\newblock In {\em European Conference on Principles of Data Mining and
+  Knowledge Discovery}, pages 13--23. Springer, 2000.
+
+\bibitem{naturecode}
+DANIEL SHIFFMAN.
+\newblock {\em THE NATURE OF CODE}.
+\newblock Free Software Foundation, 2012.
+
+\bibitem{relu}
+{Balwally, A.}
+\newblock What is the role of rectified li.
+\newblock
+  \url{https://www.quora.com/What-is-the-role-of-rectified-linear-ReLU-activation-function-in-CNN},
+  2018.
+\newblock [Online; accessed 9-Jun-2018].
+
+\bibitem{dropout}
+{Rodriguez, J.}
+\newblock Convolutional neural networks for the rest of us part iii: Benefits
+  and motivation.
+\newblock
+  \url{https://medium.com/@jrodthoughts/convolutional-neural-networks-for-the-rest-of-us-part-iii-benefits-and-motivation-d84cd72f5670},
+  2018.
+\newblock [Online; accessed 10-Jun-2018].
+
+\bibitem{layers}
+{Adam Geitgey}.
+\newblock Machine learning is fun! part 3: Deep learning and convolutional
+  neural networks.
+\newblock
+  \url{https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721},
+  2016.
+\newblock [Medium ; accessed 14-Jul-2018].
+
+\bibitem{jaderberg2015spatial}
+Max Jaderberg, Karen Simonyan, Andrew Zisserman, et~al.
+\newblock Spatial transformer networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2017--2025, 2015.
+
+\bibitem{van2017learning}
+Nanne van Noord and Eric Postma.
+\newblock Learning scale-variant and scale-invariant features for deep image
+  classification.
+\newblock {\em Pattern Recognition}, 61:583--592, 2017.
+
+\bibitem{taylor2017improving}
+Luke Taylor and Geoff Nitschke.
+\newblock Improving deep learning using generic data augmentation.
+\newblock {\em arXiv preprint arXiv:1708.06020}, 2017.
+
+\bibitem{normalizing}
+{pietz}.
+\newblock Images.
+
+\bibitem{validation}
+{Akshay Balwally,}.
+\newblock What is the difference between validation set and test set?
+\newblock
+  \url{https://www.quora.com/What-is-the-difference-between-validation-set-and-test-set},
+  2016.
+\newblock [Online; accessed 7-Jun-2018].
+
+\bibitem{performance}
+{Ricardo Gutierrez-Osuna}.
+\newblock Validation.
+\newblock \url{http://research.cs.tamu.edu/prism/lectures/iss/iss_l13.pdf},
+  2017.
+\newblock [Wright State University ; accessed 27-Jun-2018].
+
+\bibitem{framework}
+{Anton Shaleynikov}.
+\newblock 10 best frameworks and libraries for ai.
+\newblock
+  \url{https://dzone.com/articles/progressive-tools10-best-frameworks-and-libraries},
+  2018.
+\newblock [Dzone; accessed 14-Jul-2018].
+
+\bibitem{cnnonline}
+ujjwalkarn.
+\newblock An intuitive explanation of convolutional neural networks – the
+  data science blog.
+\newblock
+  \url{https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/},
+  August 2016.
+\newblock (Accessed on 05/16/2018).
+
+\bibitem{junior2017archi}
+Paulo Roberto Silva~Chagas Junior, Alexandre~Abreu De~Freitas, Rafael~Daisuke
+  Akiyama, Brunelli~Pinto Miranda, Tiago Davi~Oliveira De~Ara{\'u}jo, Carlos
+  Gustavo~Resque Dos~Santos, Bianchi~Serique Meiguins, and
+  Jefferson~Magalh{\~a}es De~Morais.
+\newblock Architecture proposal for data extraction of chart images using
+  convolutional neural network.
+\newblock In {\em Information Visualisation (IV), 2017 21st International
+  Conference}, pages 318--323. IEEE, 2017.
+
+\bibitem{edi}
+{Editor}.
+\newblock what-to-look-for-in-training-dataset.
+\newblock
+  \url{https://medium.com/@jrodthoughts/convolutional-neural-networks-for-the-rest-of-us-part-iii-benefits-and-motivation-d84cd72f5670},
+  2018.
+\newblock [Online; accessed 5-Jun-2018].
+
+\bibitem{projectdataset}
+{James Eagan}.
+\newblock Project datasets.
+\newblock \url{https://perso.telecom-paristech.fr/eagan/class/igr204/datasets}.
+\newblock [Online; accessed 20-April-2018].
+
+\bibitem{datplot}
+{Michael Vogt}.
+\newblock Datplot.
+\newblock \url{https://vincentarelbundock.github.io/Rdatasets/datasets.html},
+  2011.
+\newblock [Online; accessed 20-April-2018].
+
+\bibitem{plotly}
+{plotly/datasets}.
+\newblock Latex --- {Wikipedia}{,} the free encyclopedia.
+\newblock \url{https://github.com/plotly/datasets}, 2011.
+\newblock [Online; accessed 20-April-2018].
+
+\bibitem{rdata}
+{vincentarel bundock}.
+\newblock Rdatasets.
+\newblock \url{https://vincentarelbundock.github.io/Rdatasets/datasets.html},
+  2011.
+\newblock [Online; accessed 20-April-2018].
+
+\bibitem{lee2018viziometrics}
+Po-shen Lee, Jevin~D West, and Bill Howe.
+\newblock Viziometrics: Analyzing visual information in the scientific
+  literature.
+\newblock {\em IEEE Transactions on Big Data}, 4(1):117--129, 2018.
+
+\bibitem{lee2016viziometrix}
+Po-shen Lee, Jevin~D West, and Bill Howe.
+\newblock Viziometrix: A platform for analyzing the visual information in big
+  scholarly data.
+\newblock In {\em Proceedings of the 25th international conference companion on
+  world wide web}, pages 413--418. International World Wide Web Conferences
+  Steering Committee, 2016.
+
+\bibitem{howard2017mobilenets}
+Andrew~G Howard, Menglong Zhu, Bo~Chen, Dmitry Kalenichenko, Weijun Wang,
+  Tobias Weyand, Marco Andreetto, and Hartwig Adam.
+\newblock Mobilenets: Efficient convolutional neural networks for mobile vision
+  applications.
+\newblock {\em arXiv preprint arXiv:1704.04861}, 2017.
+
+\bibitem{ILSVRC15}
+Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
+  Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein,
+  Alexander~C. Berg, and Li~Fei-Fei.
+\newblock {ImageNet Large Scale Visual Recognition Challenge}.
+\newblock {\em International Journal of Computer Vision (IJCV)},
+  115(3):211--252, 2015.
+
+\end{thebibliography}

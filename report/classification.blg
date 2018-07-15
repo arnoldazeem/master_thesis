@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: classification.aux
+The style file: unsrt.bst
+Database file #1: sample.bib
+Repeated entry---line 223 of file sample.bib
+ : @inproceedings{krizhevsky2012imagenet
+ :                                      ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 360 of file sample.bib
+ :  title = "Images "
+ :                   Normalization"",
+I'm skipping whatever remains of this entry
+Repeated entry---line 367 of file sample.bib
+ : @misc{validation
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 393 of file sample.bib
+ : @inproceedings{lee2016viziometrix
+ :                                  ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in amara2017convolutional
+You've used 38 entries,
+            1791 wiz_defined-function locations,
+            642 strings with 10886 characters,
+and the built_in function-call counts, 8651 in all, are:
+= -- 795
+> -- 369
+< -- 10
++ -- 142
+- -- 104
+* -- 411
+:= -- 1301
+add.period$ -- 138
+call.type$ -- 38
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 39
+duplicate$ -- 388
+empty$ -- 897
+format.name$ -- 104
+if$ -- 2036
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 22
+newline$ -- 209
+num.names$ -- 38
+pop$ -- 198
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 218
+stack$ -- 0
+substring$ -- 422
+swap$ -- 137
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 75
+width$ -- 40
+write$ -- 434
+(There were 4 error messages)
